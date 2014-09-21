@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<title>Greg's Gambits | Avatars</title>
+</head>
+
+<body>
+   <table width = "90%" border= "0">
+      <tr><td>
+      <h1>&nbsp;</h1>
+      <hr /><h2> Here are your avatar options: </h2>
+      </td></tr>
+      <tr><td>
+      <hr />
+      <h3><img src="images/bunny.jpg" alt="bunny" />Bunny  &nbsp;&nbsp;
+         <img src="images/elf.jpg" alt="elf" /> Elf &nbsp;&nbsp;
+      <img src="images/ghost.jpg" alt="ghost" />Ghost  &nbsp;&nbsp;&nbsp;
+      <img src="images/princess.jpg" alt="princess" /> Princess  &nbsp;&nbsp;
+      <img src="images/wizard.jpg" alt="wizard" />Wizard </h3>
+      <hr />
+      </td></tr>      
+      <tr><td><h3>You will enter your selection on the previous page.</h3>
+      </td></tr>
+   </table>
+</body>
+</html>

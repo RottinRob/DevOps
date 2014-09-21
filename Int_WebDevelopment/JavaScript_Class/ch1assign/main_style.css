@@ -1,0 +1,53 @@
+/*
+ * Robert Rees
+ * ITSE_2302-WW1
+ *	CSS style sheet
+ *      main_style.css
+ */
+
+html,body
+{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  position: relative;
+  background-color: #000000;
+  color: lime;
+  box-sizing: border-box;
+  min-height: 100%;
+}
+
+#header
+{
+  position: relative;
+  padding: 0px 20px 0px 20px;
+  color: yellow;
+  border-color: lime;
+  border-width: 2px;
+  border-style: dashed;
+}
+
+#main
+{
+  margin: 0 auto;
+  padding: 60px 30px 16px 30px;
+  font-size: 16px;
+  color: teal;
+  border-color: red;
+  border-width: 2px;
+  border-style: dashed;
+}
+
+#footer
+{
+  position: relative;
+  padding: 80px 20px 0px 60%;
+  border-color: yellow;
+  border-width: 2px;
+  border-style: dashed;
+}
